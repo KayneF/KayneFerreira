@@ -1,9 +1,9 @@
-<div>
+<div align="center">
   <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=KayneFerreira&show_icons=true&theme=tokyonight">
   <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayneFerreira&layout=compact&theme=tokyonight">
 </div>
 
-<div style="display=inline_block">
+<div align="center" style="display=inline_block">
   <div style="display=inline_block"><br>
     <h4>Programming Languages:</h4>
     <img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -25,7 +25,7 @@
   </div>
 </div>
 
-<section>
+<div align="center">
   <div style="display=inline_block"><br>
     <h4>Social Media:</h4>
     <a href="https://www.linkedin.com/in/kayne-ferreira-651970205/">
@@ -38,4 +38,4 @@
       <img align="center" alt="My Facebook" height="25" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
   </div>
-</section>
+</div>
