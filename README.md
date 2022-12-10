@@ -5,8 +5,8 @@
 
 <div align="center" style="display=inline_block">
   <div style="display=inline_block"><br>
-    <h4>Programming Languages:</h4>
-    <img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+    <h4>Languages and technologies:</h4>
+    <img align="center" alt="Java" height="60" width="60" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
     <img align="center" alt="Javascript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="HTML5" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     <img align="center" alt="CSS3" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -14,7 +14,7 @@
   </div>
 
   <div style="display=inline_block"><br>
-    <h4>Toools:</h4>
+    <h4>Tools:</h4>
     <img align="center" alt="VSCode" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
     <img align="center" alt="intelliJ IDEA" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
     <img align="center" alt="VIM" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
