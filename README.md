@@ -14,7 +14,7 @@
   </div>
 
   <div style="display=inline_block"><br>
-    <h4>Technologies:</h4>
+    <h4>Toools:</h4>
     <img align="center" alt="VSCode" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
     <img align="center" alt="intelliJ IDEA" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
     <img align="center" alt="VIM" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
