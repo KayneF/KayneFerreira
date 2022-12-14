@@ -22,6 +22,7 @@
     <img align="center" alt="VSCode" height="60" width="60" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />
     <img align="center" alt="intelliJ IDEA" height="60" width="60" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" />
     <img align="center" alt="Eclipse IDE" height="60" width="60" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" />
+    <img align="center" alt="Postman" height="60" width="60" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" />
     <img align="center" alt="VIM" height="60" width="60" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" />
     <img align="center" alt="Linux" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img align="center" alt="Debian" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" />
