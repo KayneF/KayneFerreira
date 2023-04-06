@@ -1,6 +1,6 @@
 <div align="center">
-  <img height="400em" width="800em" src="https://github-readme-stats.vercel.app/api?username=KayneFerreira&show_icons=true&theme=tokyonight">
-  <img height="400em" width="800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayneFerreira&layout=compact&theme=tokyonight">
+  <img height="300em" width="600em" src="https://github-readme-stats.vercel.app/api?username=KayneFerreira&show_icons=true&theme=tokyonight">
+  <img height="300em" width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayneFerreira&layout=compact&theme=tokyonight">
 </div>
 
 <div align="center" style="display=inline_block">
